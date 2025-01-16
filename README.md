@@ -25,7 +25,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 - 🔭 &nbsp; I’m currently working on **Chat-Engine**
 - 🌱 &nbsp; I’m currently learning React JS; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Paramhans-Singh);
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/paramhans2008);
 - 💬 &nbsp; For any collaboration or query mail me at [Email](paramhanssingh084@gmail.com);
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/paramhans-singh13/);
 - 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/15cVu-vBQDo0m4yT3Z0a5k1iaY3ri0h0L/view?usp=sharing);
@@ -73,8 +73,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 ### 📊 GitHub Stats
 <br>
 
-![Paramhans-Singh's Stats](https://github-readme-streak-stats.herokuapp.com/?user=Paramhans-Singh&theme=vue-dark)
-![Paramhans-Singh's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Paramhans-Singh&hide_progress=false&layout=compact&theme=vue-dark)
+![Paramhans-Singh's Stats](https://github-readme-streak-stats.herokuapp.com/?user=paramhans2008&theme=vue-dark)
+![Paramhans-Singh's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=paramhans2008&hide_progress=false&layout=compact&theme=vue-dark)
 
 <br>
 
@@ -84,8 +84,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 <ul type ="circle">
   <li><a href="">Hacktoberfest</a> - Winner Goodies</li>
-  <li><a href="https://gssoc.girlscript.tech/">GSSOC(GirlScript Summer of Code</a>) - Top 25 || <a href="https://github.com/Paramhans-Singh/Paramhans-Singh/blob/main/top%20100%20gssoc.PNG">CERTIFICATE</a></li>
-  <li><a href="https://hack2skill.com/hack/ssoc">SSOC(Social Summer Of Code)</a> - Top 15 || <a href="https://github.com/Paramhans-Singh/Paramhans-Singh/blob/main/SSOC.PNG">CERTIFICATE</a></li>
+  <li><a href="https://gssoc.girlscript.tech/">GSSOC(GirlScript Summer of Code</a>) - Top 25 || <a href="https://github.com/paramhans2008/paramhans2008/blob/main/top%20100%20gssoc.PNG">CERTIFICATE</a></li>
+  <li><a href="https://hack2skill.com/hack/ssoc">SSOC(Social Summer Of Code)</a> - Top 15 || <a href="https://github.com/paramhans2008/paramhans2008/blob/main/SSOC.PNG">CERTIFICATE</a></li>
   <li><a href="https://www.holopin.io/@paramsingh13#badges">My Holopin Badges</a></li>
 </ul>
 <br>
@@ -94,11 +94,11 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 <br>
 
-<a href="https://github.com/Paramhans-Singh/INDchat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Paramhans-Singh&repo=INDchat&theme=vue-dark">
+<a href="https://github.com/paramhans2008/INDchat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paramhans2008&repo=INDchat&theme=vue-dark">
 </a>
 
-<a href="https://github.com/Paramhans-Singh/Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Paramhans-Singh&repo=portfolio&theme=vue-dark">
+<a href="https://github.com/paramhans2008/Portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paramhans2008&repo=portfolio&theme=vue-dark">
 </a>
 
