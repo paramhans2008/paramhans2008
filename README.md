@@ -70,11 +70,6 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 <br>
 
-### 📊 GitHub Stats
-<br>
-
-![Paramhans-Singh's Stats](https://github-readme-streak-stats.herokuapp.com/?user=paramhans2008&theme=vue-dark)
-![Paramhans-Singh's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=paramhans2008&hide_progress=false&layout=compact&theme=vue-dark)
 
 <br>
 
